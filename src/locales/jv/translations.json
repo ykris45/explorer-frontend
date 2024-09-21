@@ -61,7 +61,7 @@
           "hash-rate": "Ergo Explorer | Hash Rate",
           "hash-rate-distribution": "Ergo Explorer | Distribusi Hash Rate",
           "miners-revenue": "Ergo Explorer | Penghasilan panambang",
-          "total": "Ergo Explorer | Dhuwit recehan ing sirkulasi"ne,
+          "total": "Ergo Explorer | Dhuwit recehan ing sirkulasine",
           "transactions-per-block": "Ergo Explorer | Transaksi saben Blok"
         }
       },
@@ -219,7 +219,7 @@
       "ru": "Русский",
       "id": "Basa Indonesia",
       "tr": "Türkçe",
-      "jv": "Basa Jawa",
+      "jv": "Basa Jawa"
     },
     "mining-cost": {
       "costPerTransaction": "Biaya saben Transaksi",
