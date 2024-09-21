@@ -192,7 +192,8 @@
       "en": "English",
       "ru": "Русский",
       "id": "Indonesian",
-      "tr": "Türkçe"
+      "tr": "Türkçe",
+      "jv": "Basa Jawa"
     },
     "mining-cost": {
       "costPerTransaction": "Стоимость на Транзакцию",
