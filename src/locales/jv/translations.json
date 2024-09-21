@@ -133,7 +133,7 @@
       "title": "Kode QR"
     },
     "address-summary": {
-      "hash": "alamat",
+      "hash": "Alamat",
       "title": "Ringkesan"
     },
     "address-transactions": {
@@ -303,7 +303,7 @@
       "showScripts": "Tampilake skrip & basis koine",
       "title": "Inpute lan Outpute",
       "totalCoinsTransferred": "Total Koin sing Ditransfer",
-      "totalFee": "Fees"
+      "totalFee": "Biayane"
     },
      "address-output": "Outpute",
       "confirmation": {
@@ -363,6 +363,6 @@
       "title": "Transaksi",
       "subtitle": "Deleng informasi babagan transaksi ERGO",
       "error-message": "Transaksi nganggo ID iki ora ditemokake, utawa durung mlebu Mempool"
-    }
+   }
   }
 }
