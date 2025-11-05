@@ -11,11 +11,11 @@
       "id": "ID",
       "votes": "Dhukungane",
       "minedBy": "Ditambang dening",
-      "minerReward": "Ganjaran",
+      "minerReward": "Ganjarane",
       "nBits": "bit",
       "parent": "Blok sadurunge",
-      "size": "Ukuran",
-      "stateRoot": "Akar Negara",
+      "size": "Ukurane",
+      "stateRoot": "Negoro asale",
       "transactions": "Transaksi",
       "transactionsRoot": "Root Transaksi",
       "version": "Versi",
@@ -39,58 +39,58 @@
     },
     "pages": {
       "address": {
-        "title": "Ergo Explorer | Alamate {id}"
+        "title": "Penjelajahe Ergo | Alamate {id}"
       },
       "api": {
-        "title": "Ergo Explorer | API"
+        "title": "Penjelajahe Ergo | API"
       },
       "block": {
-        "title": "Ergo Explorer | Blok {id}"
+        "title": "Penjelajahe Ergo | Blok {id}"
       },
       "token": {
-        "title": "Ergo Explorer | Token {id}"
+        "title": "Penjelajahe Ergo | Token {id}"
       },
       "unconfirmed-transaction": {
-        "title": "Ergo Explorer | Transaksine {id}"
+        "title": "Penjelajahe Ergo | Transaksine {id}"
       },
       "chart": {
         "title": {
-          "block-size": "Ergo Explorer | Ukuran Blok Rata-ratane",
-          "blockchain-size": "Ergo Explorer | Ukuran Blockchain",
-          "difficulty": "Ergo Explorer | Kangelan",
-          "hash-rate": "Ergo Explorer | Hash Rate",
-          "hash-rate-distribution": "Ergo Explorer | Distribusi Hash Rate",
-          "miners-revenue": "Ergo Explorer | Penghasilan panambang",
-          "total": "Ergo Explorer | Dhuwit recehan ing sirkulasine",
-          "transactions-per-block": "Ergo Explorer | Transaksi saben Blok"
+          "block-size": "Penjelajahe Ergo | Ukurane Blok Rata-ratane",
+          "blockchain-size": "Penjelajahe Ergo | Ukurane Blockchain",
+          "difficulty": "Penjelajahe Ergo | Kangelane",
+          "hash-rate": "Penjelajahe Ergo | Hash Rate",
+          "hash-rate-distribution": "Penjelajahe Ergo | Distribusine Hash Rate",
+          "miners-revenue": "Penjelajahe Ergo | Penghasilane Panambang",
+          "total": "Penjelajahe Ergo | Dhuwit recehan ing sirkulasine",
+          "transactions-per-block": "Penjelajahe Ergo | Transaksine saben Blok"
         }
       },
       "charts": {
-        "title": "Ergo Explorer | Bagane"
+        "title": "Penjelajahe Ergo | Bagane"
       },
       "data": {
-        "title": "Ergo Explorer | datane"
+        "title": "Penjelajahe Ergo | Datane"
       },
       "not-found": {
-        "title": "Ergo Explorer | Ora ketemu"
+        "title": "Penjelajahe Ergo | Ora ketemu"
       },
       "stats": {
-        "title": "Ergo Explorer | Statistike"
+        "title": "Penjelajahe Ergo | Statistike"
       },
       "transaction": {
-        "title": "Ergo Explorer | Transaksine {id}"
+        "title": "Penjelajahe Ergo | Transaksine {id}"
       },
       "wallet": {
-        "title": "Ergo Explorer | Dompete"
+        "title": "Penjelajahe Ergo | Dompete"
       },
       "order-book": {
-        "title": "Ergo Explorer | Buku Pesanan"
+        "title": "Penjelajahe Ergo | Buku Pesanane"
       },
       "issued-tokens": {
-        "title": "Ergo Explorer | Token sing diterbitake"
+        "title": "Penjelajahe Ergo | Token Sing Diterbitake"
       },
       "unconfirmed-transactions": {
-        "title": "Ergo Explorer | Mempool"
+        "title": "Penjelajahe Ergo | Mempool"
       }
     },
     "stats": {
@@ -106,16 +106,16 @@
     },
     "navigation": {
       "resources": "Sumber dayane",
-      "latest-blocks": "Blok sing paling anyar",
+      "latest-blocks": "Blok sing Paling Anyar",
       "mempool": "Mempool",
       "oracle-pools": "Oracle Pool",
       "statistics": "Statistike",
       "charts": "Bagane",
       "stats": "Statistike",
       "tokens": "Token",
-      "issued-tokens": "Token sing diterbitake",
-      "rich-list": "Dhaptar wong sugih",
-      "more": "liyane",
+      "issued-tokens": "Token sing Diterbitake",
+      "rich-list": "Dhaptar Wong Sugih",
+      "more": "Liyane",
       "wallets": "Dompete",
       "api": "API",
       "monitor": "Kesulitan & Epoch monitore",
@@ -129,34 +129,34 @@
       "request-payment": "Njaluk Pembayaran"
     },
     "address-qr-code-modal": {
-      "subtitle": "Pindai Alamat",
+      "subtitle": "Pindai Alamate",
       "title": "Kode QR"
     },
     "address-summary": {
-      "hash": "Alamat",
-      "title": "Ringkesan"
+      "hash": "Alamate",
+      "title": "Ringkesane"
     },
     "address-transactions": {
-      "confirmedBalance": "imbangan pungkasan",
+      "confirmedBalance": "Imbangan Pungkasan",
       "title": "Transaksi",
-      "confirmed": "No transaksi",
-      "totalReceived": "Total ditampa",
+      "confirmed": "No Transaksi",
+      "totalReceived": "Total Ditampa",
       "tokens": "Token",
       "show": "Tampilake"
     },
     "address-issued-tokens": {
-      "title": "Token sing diterbitake",
+      "title": "Token sing Diterbitake",
       "allTokens": "Kabeh Token"
     },
     "address": {
-      "title": "{coinName} Alamat"
+      "title": "{coinName} Alamate"
     },
     "block-header": {
       "adproofs": "Bukti AD",
-      "back": "Bali menyang kabeh blok",
-      "information": "Informasi",
-      "transactions": "Transaksi",
-      "extension": "Ekstensi"
+      "back": "Bali Menyang Kabeh Blok",
+      "information": "Informasime",
+      "transactions": "Transaksine",
+      "extension": "Ekstensine"
     },
     "block-summary": {
       "averageMiningTime": "Wektu pertambangan rata-ratane",
@@ -175,7 +175,7 @@
       "back": "Bali menyang omah",
       "hash-rate-distribution": {
         "labels": {
-          "name": "panambang",
+          "name": "Panambang",
           "value": "Blok"
         }
       },
@@ -190,12 +190,12 @@
         "transactions-per-block": "Jumlah rata-rata transaksi saben blok"
       },
       "title": {
-        "block-size": "Ukuran blok rata-rata",
+         "block-size": "Ukuran Blok Rata-ratane",
         "blockchain-size": "Ukuran Blockchain",
-        "difficulty": "kangelan",
+        "difficulty": "Kangelane",
         "hash-rate": "Hash Rate",
         "hash-rate-distribution": "Distribusi Hash Rate",
-        "miners-revenue": "Penghasilan panambang",
+        "miners-revenue": "Penghasilan Panambang",
         "total": "Dhuwit recehan ing sirkulasine",
         "transactions-per-block": "Transaksi saben Blok"
       }
@@ -203,16 +203,16 @@
     "charts": {
       "block-details": "Rincian Blok",
       "currency-statistics": "Statistik mata uang",
-      "mining-information": "Informasi Pertambangan",
+      "mining-information": "Informasi Pertambangane",
       "title": "Bagan"
     },
     "data": {
       "show": "Tampilake",
-      "title": "pamblokiran paling anyar",
+      "title": "Blok paling anyar",
       "wrong-query": "Ora ana blok sing ditemokake. Coba tanggal beda"
     },
     "home": {
-      "title": "Penjelajah blockchain"
+      "title": "Penjelajahe blockchain"
     },
     "language-switcher": {
       "en": "Basa Inggris",
@@ -223,10 +223,10 @@
     },
     "mining-cost": {
       "costPerTransaction": "Biaya saben Transaksi",
-      "difficulty": "kangelan",
+      "difficulty": "Kangelane",
       "hashRate": "Hash Rate",
       "percentEarnedTransactionsFees": "% Ditampa Saka Biaya Transaksi",
-      "percentTransactionVolume": "% Volume Transaksi",
+      "percentTransactionVolume": "% Volume Transaksine",
       "title": "Biaya Tambang",
       "totalMinersRevenue": "Total revenue panambang"
     },
@@ -242,17 +242,17 @@
       "prev": "Sadurunge"
     },
     "payment-request-modal": {
-      "amount": "Jumlah",
-      "copied": "disalin",
-      "copy": "Nyalin",
+      "amount": "Jumlahe",
+      "copied": "Disalin",
+      "copy": "Nyonto",
       "description": "Katrangan",
       "link": "Link Panjaluk Pembayaran",
       "subtitle": "Gunakake formulir iki kanggo ngatur alamat kanggo panjalukan pembayaran",
       "title": "Nggawe Panjaluk Pembayaran"
     },
     "payment-request": {
-      "copied": "disalin",
-      "copy": "Nyalin",
+      "copied": "Disalin",
+      "copy": "Nyonto",
       "for": "Kanggo",
       "subtitle": "Sampeyan bisa ngirim {coinName} menyang alamat ing ngisor iki",
       "title": "Panjaluk Pembayaran"
@@ -264,20 +264,20 @@
     "sidebar-menu": {
       "items": {
         "api": "API",
-        "api-addresses": "Alamat",
+        "api-addresses": "Alamate",
         "api-blocks": "Blok",
-        "api-charts": "Bagan",
-        "api-statistics": "Statistik",
-        "api-transactions": "Transaksi",
-        "api-utilities": "Utilitas",
+        "api-charts": "Bagane",
+        "api-statistics": "Statistike",
+        "api-transactions": "Transaksine",
+        "api-utilities": "Utilitase",
         "charts": "Bagan",
         "data": "Datane",
         "stats": "Statistik",
         "wallet": "Dompet",
-        "order-book": "Buku pesenane",
-        "issued-tokens": "Token sing diterbitake",
+        "order-book": "Buku Pesenane",
+        "issued-tokens": "Token sing Diterbitake",
         "unconfirmed": "Mempool",
-        "oraclePools": "Kolam Oracle",
+        "oraclePools": "Pool Oracle",
         "watch": "Ergo Watch",
         "diff": "Kesulitan & Epoch monitor"
       }
@@ -297,7 +297,7 @@
       }
     },
     "transaction-io-summary": {
-     "feePerByte": "Ragad saben Byte",
+      "feePerByte": "Ragad saben Byte",
       "hideScripts": "Singidaken skrip & basis koine",
       "scripts": "Skrip",
       "showScripts": "Tampilake skrip & basis koine",
@@ -305,7 +305,8 @@
       "totalCoinsTransferred": "Total Koin sing Ditransfer",
       "totalFee": "Biayane"
     },
-     "address-output": "Outpute",
+    "transaction-item": {
+      "address-output": "Outpute",
       "confirmation": {
         "one": "konfirmasine",
         "other": "konfirmasine"
@@ -319,8 +320,8 @@
     },
     "transaction-summary": {
       "blocks": "Kalebu ing Blok", 
-      "confirmations Count": "Konfirmasi", 
-      "size": "Size", 
+      "confirmations Count": "Konfirmasine", 
+      "size": "Ukurane", 
       "timestamp": "Wektu Ditampa", 
       "title": "Ringkesane"
     },
@@ -329,7 +330,7 @@
         "input": "Inpute",
         "output": "Outpute"
       },
-     "subtitle": "Deleng informasi babagan transaksi ERGO",
+      "subtitle": "Deleng informasi babagan transaksi ERGO",
       "title": "Transaksine",
       "error-message": "Transaksi nganggo ID iki ora ditemokake, utawa durung mlebu Mempool"
     },
@@ -343,15 +344,15 @@
       "title": "Dompet durung kasedhiya"
     },
     "widget": {
-     "view-all-charts": "Deleng kabeh Bagan",
+      "view-all-charts": "Deleng kabeh Bagane",
       "view-all-blocks": "Deleng kabeh Blok",
       "view-all": "Deleng kabeh ae"
     },
     "order-book": {
-     "title": "Buku Pesenane"
+      "title": "Buku Pesenane"
     },
     "issued-tokens": {
-      "title": "Token sing diterbitake"
+      "title": "Token sing Diterbitake"
     },
     "unconfirmed-transactions": {
       "title": "Mempool",
@@ -363,6 +364,6 @@
       "title": "Transaksi",
       "subtitle": "Deleng informasi babagan transaksi ERGO",
       "error-message": "Transaksi nganggo ID iki ora ditemokake, utawa durung mlebu Mempool"
-   }
+    }
   }
 }
