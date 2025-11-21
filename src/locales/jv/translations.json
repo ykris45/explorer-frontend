@@ -320,7 +320,7 @@
     },
     "transaction-summary": {
       "blocks": "Kalebu ing Blok", 
-      "confirmations Count": "Konfirmasine", 
+      "confirmationsCount": "Konfirmasine", 
       "size": "Ukurane", 
       "timestamp": "Wektu Ditampa", 
       "title": "Ringkesane"
